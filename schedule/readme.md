@@ -6,7 +6,7 @@ Below is the schedule of activities for the week:
 | ------------- | ------------------------------------------------------------- | ----------------------------- | -------------------------------- | -------------------------- | ---------------------------------- |
 | 9:00 - 10:00  | 🟦 [Setup/Welcome][0-setup-welcome]                           | 🟦 React Components           | 🟦 Controlled Forms              | 🟦 React Router in DOM     | 🟦 Backend Deployment              |
 | 10:00 - 11:00 | 🟦 [Modern Javascript Syntax][1-modern-javascript-syntax-lab] | 🟦 Cont.                      | 🟦 Cont.                         | 🟦 Cont.                   | 🟦 Front End Deployment            |
-| 11:00 - 12:00 | 🟦 Intro to SPAs                                              | 🟩 React Components Lab       | 🟩 Controlled Forms in React Lab | 🟩 React Router in DOM Lab | 🟩 Deployment of Application       |
+| 11:00 - 12:00 | 🟦 [Intro to SPAs][2-intro-to-spas]                           | 🟩 React Components Lab       | 🟩 Controlled Forms in React Lab | 🟩 React Router in DOM Lab | 🟩 Deployment of Application       |
 | 12:00 - 1:00  | **Lunch**                                                     | **Lunch**                     | **Lunch**                        | **Lunch**                  | **Lunch**                          |
 | 1:00 - 2:00   | 🟦 Intro to React                                             | 🟦 React State Management     | 🟦 Lifting State in React        | 🟦 Express REST API        | 🟩 Cont. Deployment of Application |
 | 2:00 - 3:00   | 🟩 Building Your First React App                              | 🟦 Cont.                      | 🟦 Cont.                         | 🟦 Cont.                   | 🟦 Present Your App                |
@@ -24,3 +24,4 @@ this [Resource Google Sheet](https://docs.google.com/spreadsheets/d/1jW_km5c00F_
 
 [0-setup-welcome]: ../lessons/0-setup-welcome/readme.md
 [1-modern-javascript-syntax-lab]: ../lessons/1-modern-javascript-syntax-lab/README.md
+[2-intro-to-spas]: ../lessons/2-intro-to-spas/README.md
