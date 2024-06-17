@@ -10,7 +10,7 @@ Below is the schedule of activities for the week:
 | 12:00 - 1:00  | **Lunch**                                                           | **Lunch**                                                     | **Lunch**                                                            | **Lunch**                  | **Lunch**                          |
 | 1:00 - 2:00   | 🟦 [Intro to React](3-intro-to-react)                               | 🟦 [React State Management][7-react-state-management]         | 🟦 [Lifting State in React][11-lifting-state-in-react]               | 🟦 Express REST API        | 🟩 Cont. Deployment of Application |
 | 2:00 - 3:00   | 🟩 [Building Your First React App][4-building-your-first-react-app] | 🟦 Cont.                                                      | 🟦 Cont.                                                             | 🟦 Cont.                   | 🟦 Present Your App                |
-| 3:00 - 4:00   | 🟩 Cont.                                                            | 🟩 [React State Management Lab][8-react-state-management-lab] | 🟩 Lifting State in React Lab                                        | 🟩 React and RESTful API   | 🟦 Present Your App Cont.          |
+| 3:00 - 4:00   | 🟩 Cont.                                                            | 🟩 [React State Management Lab][8-react-state-management-lab] | 🟩 [Lifting State in React Lab][12-lifting-state-in-react-lab]       | 🟩 React and RESTful API   | 🟦 Present Your App Cont.          |
 | 4:00 - 4:30   | 🟩 Cont.                                                            | 🟩 Cont.                                                      | 🟩 Cont.                                                             | 🟦 Cont.                   | 🟩 Summary/Close                   |
 | 4:30 - 5:00   | 🟦 Closing                                                          | 🟦 Closing                                                    | 🟦 Closing                                                           | 🟦 Closing                 | 🟦 Closing                         |
 
@@ -34,3 +34,4 @@ this [Resource Google Sheet](https://docs.google.com/spreadsheets/d/1jW_km5c00F_
 [9-controlled-forms-in-react]: ../lessons/9-controlled-forms-in-react/README.md
 [10-controlled-forms-in-react-lab]: ../lessons/10-controlled-forms-in-react-lab/README.md
 [11-lifting-state-in-react]: ../lessons/11-lifting-state-in-react/README.md
+[12-lifting-state-in-react-lab]: ../lessons/12-lifting-state-in-react-lab/README.md
