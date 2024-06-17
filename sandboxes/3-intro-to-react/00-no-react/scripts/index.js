@@ -11,3 +11,8 @@ document.addEventListener("DOMContentLoaded", () => {
 		root.textContent = "Hola 👋";
 	});
 });
+// EEE
+
+// Elements
+// Events
+// Execution

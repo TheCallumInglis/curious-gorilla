@@ -1,5 +1,5 @@
 const domContainer = document.querySelector("#root");
-const root = ReactDOM.createRoot(domContainer);
+const martyn = ReactDOM.createRoot(domContainer);
 
 const { useState } = React;
 
@@ -36,4 +36,4 @@ const Counter = () => {
 	);
 };
 
-root.render(<Counter />);
+martyn.render(<Counter />);

@@ -22,4 +22,6 @@ class LikeButton extends React.Component {
 	}
 }
 
+// console.log(element(LikeButton));
+
 root.render(element(LikeButton));
