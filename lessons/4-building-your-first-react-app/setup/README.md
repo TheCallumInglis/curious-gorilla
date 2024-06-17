@@ -39,10 +39,7 @@ Open the `App.jsx` file in the `src` directory and replace the contents of it wi
 // src/App.jsx
 
 const App = () => {
-
-  return (
-    <h1>Hello, world!</h1>
-  );
+  return <h1>Hello, world!</h1>;
 };
 
 export default App;
