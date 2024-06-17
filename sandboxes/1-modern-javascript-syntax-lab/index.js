@@ -10,6 +10,21 @@ const nums = [13, 87, 2, 89, 12, 4, 90, 63];
 
 // Your code here
 
+// nums.forEach((number) => {
+//   return number * 2;
+// })
+
+const multiplyByTwo = (number) => number * 2;
+
+
+const numsMultiplyByTwo = nums.map(multiplyByTwo)
+
+console.log('numb ==> ', nums);
+console.log('numsMultiplyByTwo --> ', numsMultiplyByTwo)
+
+const stringWithSingleQuotes = 'Martyn';
+const stringWithDoubleQuotes = "Pedro"; 
+
 /*********************************************** */
 // Array destructuring
 /*********************************************** */
@@ -18,14 +33,26 @@ const nums = [13, 87, 2, 89, 12, 4, 90, 63];
 
 const pizzaToppings = ["Pineapple", "Olives", "Anchovies"];
 
+// const pineapple = pizzaToppings[0];
+// const olives = pizzaToppings[1];
+// const anchovies = pizzaToppings[2];
+
+const [pineapple, olives, anchovies] = pizzaToppings
+
+console.log(pineapple, olives, anchovies);
+
+
 // Your code here
 
 /*********************************************** */
 // Array spread operator
 /*********************************************** */
-// Duplicate the following array using the spread operator and assign it to `controversialPizzaToppings`. Then, log the variable.
+// Duplicate the following array using the spread operator and assign it to 
+// `controversialPizzaToppings`.Then, log the variable.
 
 // const pizzaToppings = ["Pineapple", "Olives", "Anchovies"];
+const controversialPizzaToppings = [...pizzaToppings, 'chocoloate'];
+console.log({ controversialPizzaToppings });
 
 // Your code here
 
@@ -40,6 +67,16 @@ const car = {
 	model: "q5",
 };
 
+const { make: manufacturer, model } = car;
+
+console.log('manufacturer ==> ', manufacturer);
+console.log('model ==> ', model);
+
+const racingCar = { ...car, topSpeed: 400 };
+console.log({ racingCar });
+
+
+
 // Change the `model` property of `myCar` to 'q7'. Log both objects.
 
 // Your code here
@@ -50,15 +87,38 @@ const car = {
 
 // Create an object named userProfile.
 
+const userProfile = {};
+
 // Define a variable named propertyName and assign a string to it (like a username, age, or email).
 
+const propertyName = 'username';
+
 // Use propertyName as a dynamic key in userProfile, assigning a relevant value.
+
+const anotherUserProfile = {
+  ...userProfile,
+  [propertyName]: 'pataruco',
+}
+
+console.log({
+  userProfile, 
+  anotherUserProfile,
+})
 
 // Your code here
 
 /*********************************************** */
 // Default paramaters
 /*********************************************** */
+function addThreeNumbers(numA, numB = 2, numC = 1) {
+  return numA + numB + numC;
+}
+
+addThreeNumbers(2);
+
+console.log('addThreeNumbers ---> ', addThreeNumbers(2));
+
+
 // Create a function that takes two parameters, `noun` and `adjective`, both with the following respective default values:
 
 // 1. `cat`
@@ -81,6 +141,20 @@ if (pizza === "tasty") {
 } else {
 	console.log("yuck");
 }
+
+const isTasty = pizza === 'tasty' ? 'yum' : 'yuck';
+console.log({ isTasty });
+
+// const pedro = 'pedro';
+// pedro = 'james';
+
+const fruits = ['oranges', 'apples'];
+fruits.push('strawberries');
+
+console.log({ fruits });
+
+let pedro = 'pedro';
+pedro = 'james';
 
 // Your code here
 
