@@ -20,7 +20,7 @@ Each session is marked with a colored square indicating the type of activity:
 - 🟩 Practice - Application: Solo Work, Pair Activity, Group Activity
 
 **For Copying & Pasting Code, Resources, and More Check out
-this [Resource Google Sheet](https://docs.google.com/spreadsheets/d/1jW_km5c00F_msx1rUbYBOjJHe1WhJTiINVb5HbdVjZg/edit?usp=sharing)**
+this [Resource Google Sheet](https://docs.google.com/spreadsheets/d/1jW_km5c00F_msx1rUbYBOjJHe1WhJTiINVb5HbdVjZg/edit?usp=sharing) and [Student Sheet](https://docs.google.com/spreadsheets/d/1475cQgfgwpQ_8ehXpOWAubsLjRobj1hq7uj6itbJyYo/edit?usp=sharing)** 
 
 [0-setup-welcome]: ../lessons/0-setup-welcome/readme.md
 [1-modern-javascript-syntax-lab]: ../lessons/1-modern-javascript-syntax-lab/README.md
