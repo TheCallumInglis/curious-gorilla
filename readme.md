@@ -11,6 +11,7 @@ This repo is devided into the following sections:
 - [schedule](./schedule/readme.md) - Here you will find the schedule of activities for the week.
 - [lessons](./lessons/readme.md) - Here you will find all the slides and resources for the lessons written in markdown.
 - [sandboxes](./sandboxes/readme.md) - Here you will find all the sandboxes/labs/things that the instructor write live during the lessons.
+- [final project](./final-project/readme.md) - Here you will find the final project requirements.
 
 ## How to install
 
