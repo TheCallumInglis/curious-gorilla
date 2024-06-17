@@ -2,17 +2,17 @@
 
 Below is the schedule of activities for the week:
 
-| Time          | Monday                                                              | Tuesday                                           | Wednesday                        | Thursday                   | Friday                             |
-| ------------- | ------------------------------------------------------------------- | ------------------------------------------------- | -------------------------------- | -------------------------- | ---------------------------------- |
-| 9:00 - 10:00  | 🟦 [Setup/Welcome][0-setup-welcome]                                 | 🟦 [React Components][5-react-components]         | 🟦 Controlled Forms              | 🟦 React Router in DOM     | 🟦 Backend Deployment              |
-| 10:00 - 11:00 | 🟦 [Modern Javascript Syntax][1-modern-javascript-syntax-lab]       | 🟦 Cont.                                          | 🟦 Cont.                         | 🟦 Cont.                   | 🟦 Front End Deployment            |
-| 11:00 - 12:00 | 🟦 [Intro to SPAs][2-intro-to-spas]                                 | 🟩 [React Components Lab][6-react-components-lab] | 🟩 Controlled Forms in React Lab | 🟩 React Router in DOM Lab | 🟩 Deployment of Application       |
-| 12:00 - 1:00  | **Lunch**                                                           | **Lunch**                                         | **Lunch**                        | **Lunch**                  | **Lunch**                          |
-| 1:00 - 2:00   | 🟦 [Intro to React](3-intro-to-react)                               | 🟦 React State Management                         | 🟦 Lifting State in React        | 🟦 Express REST API        | 🟩 Cont. Deployment of Application |
-| 2:00 - 3:00   | 🟩 [Building Your First React App][4-building-your-first-react-app] | 🟦 Cont.                                          | 🟦 Cont.                         | 🟦 Cont.                   | 🟦 Present Your App                |
-| 3:00 - 4:00   | 🟩 Cont.                                                            | 🟩 React State Management Lab                     | 🟩 Lifting State in React Lab    | 🟩 React and RESTful API   | 🟦 Present Your App Cont.          |
-| 4:00 - 4:30   | 🟩 Cont.                                                            | 🟩 Cont.                                          | 🟩 Cont.                         | 🟦 Cont.                   | 🟩 Summary/Close                   |
-| 4:30 - 5:00   | 🟦 Closing                                                          | 🟦 Closing                                        | 🟦 Closing                       | 🟦 Closing                 | 🟦 Closing                         |
+| Time          | Monday                                                              | Tuesday                                               | Wednesday                        | Thursday                   | Friday                             |
+| ------------- | ------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------- | -------------------------- | ---------------------------------- |
+| 9:00 - 10:00  | 🟦 [Setup/Welcome][0-setup-welcome]                                 | 🟦 [React Components][5-react-components]             | 🟦 Controlled Forms              | 🟦 React Router in DOM     | 🟦 Backend Deployment              |
+| 10:00 - 11:00 | 🟦 [Modern Javascript Syntax][1-modern-javascript-syntax-lab]       | 🟦 Cont.                                              | 🟦 Cont.                         | 🟦 Cont.                   | 🟦 Front End Deployment            |
+| 11:00 - 12:00 | 🟦 [Intro to SPAs][2-intro-to-spas]                                 | 🟩 [React Components Lab][6-react-components-lab]     | 🟩 Controlled Forms in React Lab | 🟩 React Router in DOM Lab | 🟩 Deployment of Application       |
+| 12:00 - 1:00  | **Lunch**                                                           | **Lunch**                                             | **Lunch**                        | **Lunch**                  | **Lunch**                          |
+| 1:00 - 2:00   | 🟦 [Intro to React](3-intro-to-react)                               | 🟦 [React State Management][7-react-state-management] | 🟦 Lifting State in React        | 🟦 Express REST API        | 🟩 Cont. Deployment of Application |
+| 2:00 - 3:00   | 🟩 [Building Your First React App][4-building-your-first-react-app] | 🟦 Cont.                                              | 🟦 Cont.                         | 🟦 Cont.                   | 🟦 Present Your App                |
+| 3:00 - 4:00   | 🟩 Cont.                                                            | 🟩 React State Management Lab                         | 🟩 Lifting State in React Lab    | 🟩 React and RESTful API   | 🟦 Present Your App Cont.          |
+| 4:00 - 4:30   | 🟩 Cont.                                                            | 🟩 Cont.                                              | 🟩 Cont.                         | 🟦 Cont.                   | 🟩 Summary/Close                   |
+| 4:30 - 5:00   | 🟦 Closing                                                          | 🟦 Closing                                            | 🟦 Closing                       | 🟦 Closing                 | 🟦 Closing                         |
 
 Each session is marked with a colored square indicating the type of activity:
 
@@ -29,3 +29,4 @@ this [Resource Google Sheet](https://docs.google.com/spreadsheets/d/1jW_km5c00F_
 [4-building-your-first-react-app]: ../lessons/4-building-your-first-react-app/README.md
 [5-react-components]: ../lessons/5-react-components/README.md
 [6-react-components-lab]: ../lessons/6-react-components-lab/README.md
+[7-react-state-management]: ../lessons/7-react-state-management/README.md
