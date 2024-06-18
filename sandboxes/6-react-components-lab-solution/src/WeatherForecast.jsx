@@ -1,5 +1,15 @@
 import './WeatherForecast.css';
 
+const reactObject = {
+  type: 'div',
+  properties: {
+    forecast: {
+      day: '',
+      img: '',
+    },
+  },
+};
+
 const WeatherForecast = (props) => {
   return (
     <div className="weather">
