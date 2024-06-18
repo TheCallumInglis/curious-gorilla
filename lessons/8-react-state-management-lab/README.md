@@ -6,7 +6,7 @@ Welcome to Reactville, a constantly evolving virtual metropolis. Let's build thi
 
 ## About
 
-Reactville is on high alert! As bizarre rumors turn into chilling reality, the city council has called for immediate action to safeguard the town and its inhabitants - against a looming zombie apocalypse! 
+Reactville is on high alert! As bizarre rumors turn into chilling reality, the city council has called for immediate action to safeguard the town and its inhabitants - against a looming zombie apocalypse!
 
 Your mission is to strategically assemble a survival team, handpicking members from the city’s diverse population, each bringing their unique skills and quirks. As the city's newly appointed Survival Strategist, you will manage your team's skills, resources, and stats.
 
@@ -29,14 +29,4 @@ Estimated time to complete core lab exercise: **120 min**
 
 ## Solution code
 
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/react-state-management-lab-solution)
-
-## Internal resources
-
-✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
-
-🏗️ [Release Notes](./internal-resources/release-notes.md)
-
----
-
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/blob/main/module-feedback.md)!**
+🏁 [Solution code](../../sandboxes/8-react-state-management-lab-solution/README.md)
