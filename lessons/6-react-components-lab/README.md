@@ -26,3 +26,5 @@ Estimated time to complete core lab exercise: **60 min**
 - [Exercise](./exercise/README.md)
 
 ## Solution code
+
+[`/sandboxes/6-react-components-lab-solution/`](../../sandboxes/6-react-components-lab-solution/README.md)
