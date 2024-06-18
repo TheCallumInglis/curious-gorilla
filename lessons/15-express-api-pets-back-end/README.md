@@ -31,4 +31,4 @@ In this module, students will practice the fundamental operations of creating, r
 
 ## Solution code
 
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/express-api-pets-back-end-solution)
+🏁 [Solution code](../../sandboxes/15-express-api-pets-back-end/README.md)
