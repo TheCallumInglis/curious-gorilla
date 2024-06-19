@@ -24,3 +24,7 @@ Estimated time to complete core lab exercise: **3 hrs**
 
 - [Setup](./setup/README.md)
 - [Exercise](./exercise/README.md)
+
+## Solution code
+
+[Solution code](../../sandboxes/12-lifting-state-in-react-lab-solution/README.md)
