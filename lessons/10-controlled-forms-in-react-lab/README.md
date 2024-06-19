@@ -26,3 +26,7 @@ Estimated time to complete core lab exercise: **90 min**
 
 - [Setup](./setup/README.md)
 - [Exercise](./exercise/README.md)
+
+## Solution
+
+- [Solution code](../../sandboxes/10-controlled-forms-in-react-lab-solution/README.md)
