@@ -220,7 +220,7 @@ button {
 Run the following commands in your terminal:
 
 ```bash
-mkdir components
+mkdir src/components
 touch src/components/IngredientList.jsx
 touch src/components/BurgerStack.jsx
 ```
