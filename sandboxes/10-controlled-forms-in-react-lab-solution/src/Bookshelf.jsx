@@ -9,7 +9,7 @@ const Bookshelf = () => {
     {
       title: 'The Lion, the Witch and the Wardrobe',
       author: 'C.S. Lewis',
-    }
+    },
   ]);
 
   const [newBook, setNewBook] = useState({
@@ -69,7 +69,6 @@ const Bookshelf = () => {
       </div>
     </>
   );
-
-}
+};
 
 export default Bookshelf;
